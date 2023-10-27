@@ -1,0 +1,2 @@
+usage: ./p4e num_rows 
+       num_rows is odd in range 1..79 

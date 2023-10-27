@@ -1,0 +1,2 @@
+usage: ./p4d num_rows 
+       num_rows in range 1..80 

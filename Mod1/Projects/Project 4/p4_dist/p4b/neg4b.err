@@ -1,0 +1,2 @@
+usage: ./p4b num_rows 
+       num_rows in range 1..80 

@@ -1,0 +1,10 @@
+Enter RGB values for your new color using the format (R,G,B): Closest color is initially black, with distance 421.47. 
+Distance to white is  0.00; closest color is now white. 
+Distance to red is 321.67; closest color is still white. 
+Distance to yellow is 239.81; closest color is still white. 
+Distance to blue is 278.18; closest color is still white. 
+Distance to orange is 268.01; closest color is still white. 
+Distance to green is 316.76; closest color is still white. 
+Distance to purple is 262.57; closest color is still white. 
+The closest match found in the palette was: white with (250, 247, 248) 
+

@@ -1,0 +1,5 @@
+This program will print a right triangle of 'a' characters.
+The characters will appear in the lower left of the diagonal.
+Enter the number of rows (1-80): Enter the number of rows (1-80): Enter the number of rows (1-80): a
+aa
+aaa
